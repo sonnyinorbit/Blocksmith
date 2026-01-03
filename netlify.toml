@@ -5,7 +5,6 @@
 
 [functions]
   node_bundler = "esbuild"
-  external_node_modules = ["@anthropic-ai/sdk", "@google/generative-ai"]
   included_files = ["netlify/functions/**"]
 
 [[redirects]]
