@@ -20,7 +20,7 @@ Blocksmith is a web application designed to help debaters find evidence-based bl
 
 - **Side Selection**: Choose between Affirmative and Negative positions
 - **Argument Input**: Enter specific opponent arguments to respond to
-- **Evidence Search**: Find relevant quotes and sources using AI-powered search
+- **Evidence Search**: Find relevant quotes and sources using search integration
 - **Triple Verification**: Checks for resolution relevance, argument relevance, and source reliability
 - **Multiple Results**: Navigate between multiple evidence sources when available
 - **Copy Functionality**: Easily copy formatted debate blocks
@@ -50,7 +50,7 @@ The evidence provided by Blocksmith is meant to be a starting point for your res
 
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js with Express
-- Search: AI-powered search integration
+- Search: Serper API (Google Search integration)
 - Deployment: Vercel/Netlify
 
 ### Development
@@ -72,4 +72,3 @@ If you want to run this locally:
 ## Credits
 
 Developed as a tool for debaters seeking reliable evidence sources. Built for the debate community, by the debate community.
-
